@@ -6,9 +6,9 @@
 
  Static Website URL:https://hanuman9999.z13.web.core.windows.net/index.html
 
- Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
+ Youtube Video URL :https://www.youtube.com/watch?v=gFNIuebkuTI
 
- GIT HUB URL: https://github.com/alekyagummala/Explore-Skills_Azure
+ GIT HUB URL:https://github.com/Nagaraju-Gangadhari/Project
 
 # Industry: Business (Explore the enrich)
 # Team & Responsibilities:
@@ -203,23 +203,7 @@ On the export front, our project is designed to showcase the excellence of our d
 
 Hanuman International is a hypothetical entity, and without specific context or information, it's challenging to provide details about its export and import activities. However, in a general sense, a company named Hanuman International might engage in export and import activities involving goods, services, or both.For Hanuman International, the specifics of its export and import operations would depend on factors such as the nature of its business, the types of products or services it deals with, its target markets, and the regulatory environment in which it operates.
 
-skillstorage07.z13.web.core.windows.net/
-Topics
-painting singing dancing stand-up-comedy
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
+
 Contributors4
  ⦁	Gangadhari Nagaraju
  ⦁	Muktapuram Geethanjali
