@@ -4,7 +4,7 @@
  
  Project Demo URL: https://portal.azure.com/#home
 
- Static Website URL: https://skillstorage07.z13.web.core.windows.net/
+ Static Website URL:
 
  Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
 
