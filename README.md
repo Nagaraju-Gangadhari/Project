@@ -2,9 +2,7 @@
 
  # Project Details:
  
- Project Demo URL: https://portal.azure.com/#home
-
- Static Website URL:https://hanuman9999.z13.web.core.windows.net/index.html
+ Project Demo URL: https://hanuman9999.z13.web.core.windows.net/index.html
 
  Youtube Video URL :https://www.youtube.com/watch?v=gFNIuebkuTI
 
@@ -42,15 +40,10 @@ Azure RBAC which is a role-based access service
 
 
 # AZURE AI SERVICES USED:
-Azure Bot Service
 
-Manage Identity
+Azure AI Bot Service
 
-Azure AI Service
-
-Search Service
-
-Language Service
+AI Language Service
 
 
 # PROBLEM STATEMENT:
@@ -74,18 +67,12 @@ In conclusion, while international export and import activities offer immense op
 Embark on your international trade journey with confidence and ease. Hanuman International Exports and Imports is here to elevate your business to new heights in the global marketplace. Join us today and unlock a world of opportunities!
 
 
-# AZURE CORE AZURE SERVICES:
-
- ![Screenshot 2024-02-08 170009](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/2f550264-61b1-4b11-b12b-4d3235771b5e)
- 
+# AZURE CORE AZURE SERVICES: 
 
 # Azure Storage Account:
 
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
  
-![Screenshot 2024-02-08 170859](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/326c4139-6659-4446-a499-1d8db93cab10)
-
-
 
 ![Screenshot 2024-02-08 170831](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/54bda25a-62a8-4451-91ca-bd9a9a069fbc)
 
@@ -107,8 +94,6 @@ Azure Backup Service is a cloud-based solution provided by Microsoft Azure that 
 
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
 
-![Screenshot 2024-02-08 171308](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/ace0cbdb-e18a-40df-84e1-65d21b5099ae)
-
 
 ![Screenshot 2024-02-08 171450](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/d2e476b0-e74f-42bf-b418-ada7ba052b6f)
 
@@ -117,29 +102,18 @@ Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azu
  
 # AZURE AI SERVICES:
 
+Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
+
+
 # Azure Bot Service:
 
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.
 
+
 ![Screenshot 2024-02-08 171610](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/96ef3c49-bb13-452e-ab8a-ecb19b3df088)
 
 
-![Screenshot 2024-02-08 172105](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/8c810ad4-32d8-4f22-b73b-de8f42fec280)
-
-
-![Screenshot 2024-02-08 173114](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/d8d01b4f-9c7a-44f4-a145-83df95106f99)
-
-
-![Screenshot 2024-02-08 173214](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/8b5e6570-8e1f-4060-84a8-f1ea0704c8bf)
-
-
-![Screenshot 2024-02-08 173323](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/d7f312af-70f7-43f5-b403-e95f0c5e9385)
-
-
 ![Screenshot 2024-02-08 173839](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/2b508b91-0017-442b-a280-bedd4039d97f)
-
-
-![Screenshot 2024-02-08 173924](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/de4416a0-5d86-4834-a7ee-8a667e1b8000)
 
 
 # Manage Identity:
@@ -149,30 +123,10 @@ Azure Managed Identity is a service in Microsoft Azure that enhances the securit
 
 ![Screenshot 2024-02-08 174005](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/a9cd375e-6d91-47a4-82d4-de1caa098e6a)
 
-
-![Screenshot 2024-02-08 171450](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/c3a86367-bd17-41a9-ac30-1f3609e13fe6)
-
- 
- # Azure AI Service
- 
-Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
-
-
-![Screenshot 2024-02-08 223202](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/8d7b0ad9-4f89-472c-ab8a-f8da49b43ead)
-
-
-![Screenshot 2024-02-08 223326](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/e57ea000-4103-42a8-a377-83086e4b4cbf)
-
- 
- ![Screenshot 2024-02-08 223355](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/cd3e3d71-7219-4543-bb8e-23cfe2aaa29f)
-
  
 # Search Service:
 
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
-
-
-![Screenshot 2024-02-08 173839](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/13554545-c6d6-455b-bed8-980de05828e8)
 
 
 # FINAL PROJECT STATEMENT
@@ -183,22 +137,9 @@ On the export front, our project is designed to showcase the excellence of our d
 ![Screenshot 2024-02-08 175057](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/40704411-94ce-4663-8870-bb555c19ed8d)
 
 
-![Screenshot 2024-02-08 175126](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/126dde76-90e9-42c3-9f2c-96dd40c44c77)
-
-
-![Screenshot 2024-02-08 175144](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/3dd00236-30d9-4c49-8628-ad77d55e7fc3)
-
-
-![Screenshot 2024-02-08 175159](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/e6ba1f64-7427-4512-b8c1-f6ce2b84b4d9)
-
-
-![Screenshot 2024-02-08 175350](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/cba86d18-83fc-4372-947e-0e8aaf03a7f5)
-
-
 ![Screenshot 2024-02-08 174834](https://github.com/Nagaraju-Gangadhari/Project/assets/158994456/3a594e92-7fe7-4dce-bc71-50b923efa435)
 
-
-           
+         
 # About
 
 Hanuman International is a hypothetical entity, and without specific context or information, it's challenging to provide details about its export and import activities. However, in a general sense, a company named Hanuman International might engage in export and import activities involving goods, services, or both.For Hanuman International, the specifics of its export and import operations would depend on factors such as the nature of its business, the types of products or services it deals with, its target markets, and the regulatory environment in which it operates.
