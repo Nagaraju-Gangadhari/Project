@@ -10,7 +10,7 @@ GIT HUB URL: https://github.com/alekyagummala/Explore-Skills_Azure
 
 Industry: Business (Explore the enrich)
 Team & Responsibilities:
-
+ 
 1. Gangadhari Nagaraju:
 
 Developer of the project. Created the website and managed the website using HTML, CSS, and Javascript.
