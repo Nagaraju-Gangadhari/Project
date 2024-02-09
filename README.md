@@ -163,10 +163,10 @@ Hanuman International is a hypothetical entity, and without specific context or 
 # Languages
 
 
-JavaScript6.4%
+JavaScript 6.4%
 
 
-HTML60.3% 
+HTML 60.3% 
 
 
-CSS29.3%
+CSS 29.3%
