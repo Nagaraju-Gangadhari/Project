@@ -44,6 +44,14 @@ Azure RBAC which is a role-based access service
 # AZURE AI SERVICES USED:
 Azure Bot Service
 
+Manage Identity
+
+Azure AI Service
+
+Search Service
+
+Language Service
+
 
 # PROBLEM STATEMENT:
 International export and import activities play a crucial role in the global economy, facilitating the exchange of goods and services across borders. However, these transactions are not without challenges, and various issues can arise, creating complex problem statements for businesses and governments involved in international trade.
