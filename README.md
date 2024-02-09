@@ -4,7 +4,7 @@
  
  Project Demo URL: https://portal.azure.com/#home
 
- Static Website URL:
+ Static Website URL:https://hanuman9999.z13.web.core.windows.net/index.html
 
  Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
 
