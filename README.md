@@ -146,11 +146,27 @@ Hanuman International is a hypothetical entity, and without specific context or 
 
 
 Contributors4
+
+
  ⦁	Gangadhari Nagaraju
+ 
+ 
  ⦁	Muktapuram Geethanjali
+
+ 
  ⦁	Domakonda Pavan
+
+ 
  ⦁	Kodidala Saddam Hussain
+
+ 
 Languages
-JavaScript44.4% 
-HTML32.3% 
-CSS23.3%
+
+
+JavaScript6.4%
+
+
+HTML60.3% 
+
+
+CSS29.3%
